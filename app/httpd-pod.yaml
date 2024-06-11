@@ -5,7 +5,7 @@ metadata:
   labels:
     app: httpd
     libor: testing
-  namespace: informers-testing
+  namespace: openshift-gitops
 spec:
   securityContext:
     runAsNonRoot: true
